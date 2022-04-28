@@ -1,0 +1,5 @@
+jtrader zerodha startsession
+
+jtrader zerodha rm SESSION
+
+jtrader zerodha rm CREDENTIALS
