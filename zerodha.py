@@ -13,7 +13,7 @@ profile = kite.profile()
 
 for i in range(100):
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10IGG",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -23,7 +23,7 @@ for i in range(100):
                                 validity=kite.VALIDITY_DAY)
 
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10DPD",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -32,7 +32,7 @@ for i in range(100):
                                 product=kite.PRODUCT_CNC,
                                 validity=kite.VALIDITY_DAY)
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10DPR",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -41,7 +41,7 @@ for i in range(100):
                                 product=kite.PRODUCT_CNC,
                                 validity=kite.VALIDITY_DAY)
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10DRD",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -50,7 +50,7 @@ for i in range(100):
                                 product=kite.PRODUCT_CNC,
                                 validity=kite.VALIDITY_DAY)
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10AGG",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -59,7 +59,7 @@ for i in range(100):
                                 product=kite.PRODUCT_CNC,
                                 validity=kite.VALIDITY_DAY)
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10DRR",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -68,7 +68,7 @@ for i in range(100):
                                 product=kite.PRODUCT_CNC,
                                 validity=kite.VALIDITY_DAY)
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10ADD",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -77,7 +77,7 @@ for i in range(100):
                                 product=kite.PRODUCT_CNC,
                                 validity=kite.VALIDITY_DAY)
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10ADR",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
@@ -86,7 +86,7 @@ for i in range(100):
                                 product=kite.PRODUCT_CNC,
                                 validity=kite.VALIDITY_DAY)
     order_id = kite.place_order(variety=kite.VARIETY_REGULAR,
-                                tradingsymbol="10ARR",
+                                tradingsymbol="",
                                 exchange=kite.EXCHANGE_BSE,
                                 transaction_type=kite.TRANSACTION_TYPE_BUY,
                                 quantity=20,
